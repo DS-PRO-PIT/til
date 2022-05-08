@@ -14,6 +14,8 @@
 ## Makrdown
 * [Руководство по оформлению Markdown файлов](https://gist.github.com/Jekins/2bf2d0638163f1294637) 🌐
 * [Markdown: Syntax](https://daringfireball.net/projects/markdown/syntax) 🌐
+* [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) 🌐
+
 ##### Makrdown / Basic writing and formatting syntax
 > [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 🌐
 * [Relative links](markdown/relative-links.md)
