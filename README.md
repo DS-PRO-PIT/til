@@ -2,14 +2,14 @@
 > Today I Leaned
 
 ## Categories
-* [Словари](#dictionary)
+* [Словари](#словари)
 * [GitHub](#github)
   * [GitHub Documentation](#github--github-documentation)
 * [Makrdown](#makrdown)
   * [Basic writing and formatting syntax](#makrdown--basic-writing-and-formatting-syntax)
 * [Text editors](#text-editors)
 
-## Dictionary
+## Словари
 
 ##### Dictionary / [web-standards-ru/dictionary](https://github.com/web-standards-ru/dictionary)
 * [Словарь терминов Git и GitHub](https://github.com/web-standards-ru/dictionary/blob/main/git.md) 🌐
