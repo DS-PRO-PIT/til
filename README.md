@@ -2,8 +2,12 @@
 > Today I Leaned
 
 ### Categories
+* [GitHub](#github)
 * [Makrdown](#makrdown)
 * [Text editors](#text-editors)
+
+### GitHub
+* [Organizing members into teams](https://docs.github.com/en/organizations/organizing-members-into-teams)
 
 ### Makrdown
 * [Руководство по оформлению Markdown файлов](https://gist.github.com/Jekins/2bf2d0638163f1294637)
