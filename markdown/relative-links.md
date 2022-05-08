@@ -1,6 +1,6 @@
 
 При необходимости указать ссылку из одного репзитария на другой.  
-Например, из файла `DS-PRO-PIT/github-learning-lab/README.md` на `DS-PRO-PIT/github-slideshow`:
+Например, из файла `DS-PRO-PIT/github-learning-lab/README.md` на репозиторий `DS-PRO-PIT/github-slideshow`:
 ```
 [github-slideshow](/../../../../DS-PRO-PIT/github-slideshow)
 ```
