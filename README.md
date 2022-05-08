@@ -3,15 +3,19 @@
 
 ## Categories
 * [GitHub](#github)
+  * [GitHub Documentation](https://github.com/DS-PRO-PIT/til/edit/main/README.md#github--github-documentation)
 * [Makrdown](#makrdown)
   * [Basic writing and formatting syntax](#makrdown--basic-writing-and-formatting-syntax)
 * [Text editors](#text-editors)
 
 ## GitHub
 > смотри также раздел [Makrdown](#makrdown)
+* [Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) 🌐
+
+##### GitHub / GitHub Documentation
+> [https://docs.github.com/en](https://docs.github.com/en) 🌐
 * [About task lists](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-task-lists) 🌐
 * [About writing and formatting on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github) 🌐
-* [Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) 🌐
 * [Organizing members into teams](https://docs.github.com/en/organizations/organizing-members-into-teams) 🌐
 
 ## Makrdown
