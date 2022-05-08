@@ -7,6 +7,7 @@
 * [Text editors](#text-editors)
 
 ### GitHub
+* [Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 * [Organizing members into teams](https://docs.github.com/en/organizations/organizing-members-into-teams)
 
 ### Makrdown
