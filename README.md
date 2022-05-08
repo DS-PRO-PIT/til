@@ -48,6 +48,7 @@
 ## Text editors
 * [Atom](https://atom.io/) 🌐
 
+<hr>
 
 *P.S.:  
 Sample - [https://github.com/jbranchaud/til](https://github.com/jbranchaud/til)*
