@@ -7,7 +7,7 @@
   * [GitHub Documentation](#github--github-documentation)
 * [Makrdown](#makrdown)
   * [Basic writing and formatting syntax](#makrdown--basic-writing-and-formatting-syntax)
-* [Text editors](#text-editors)
+* [Текстовые редакторы](#текстовые-редакторы)
 
 ## Словари
 
@@ -49,7 +49,7 @@
 * [Creating a permanent link to a code snippet](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-a-permanent-link-to-a-code-snippet) 🌐
 * [Using keywords in issues and pull requests](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/using-keywords-in-issues-and-pull-requests) 🌐
 
-## Text editors
+## Текстовые редакторы
 * [Atom](https://atom.io/) 🌐
 
 <hr>
