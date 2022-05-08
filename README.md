@@ -35,8 +35,7 @@
 * [Относительная ссылка на репозиторий](markdown/relative-links.md)
 * [Сноски](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#footnotes) 🌐
 
-##### Markdown / Working with advanced formatting
-> [https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting)
+##### Markdown / [Working with advanced formatting](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting)
 * [Organizing information with tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables) 🌐
 * [Organizing information with collapsed sections](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections) 🌐
 * [Creating and highlighting code blocks](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks) 🌐
