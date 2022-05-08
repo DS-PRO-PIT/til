@@ -16,7 +16,7 @@
 * [Markdown: Syntax](https://daringfireball.net/projects/markdown/syntax) 🌐
 ##### Makrdown / Basic writing and formatting syntax
 > [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 🌐
-* [Basic writing and formatting syntax / Relative links](markdown/relative-links.md)
+* [Relative links](markdown/relative-links.md)
 * [Сноски](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#footnotes) 🌐
 
 ### Text editors
