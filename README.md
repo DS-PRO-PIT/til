@@ -3,7 +3,7 @@
 
 ## Categories
 * [GitHub](#github)
-  * [GitHub Documentation](https://github.com/DS-PRO-PIT/til/edit/main/README.md#github--github-documentation)
+  * [GitHub Documentation](#github--github-documentation)
 * [Makrdown](#makrdown)
   * [Basic writing and formatting syntax](#makrdown--basic-writing-and-formatting-syntax)
 * [Text editors](#text-editors)
