@@ -13,6 +13,7 @@
 * [Organizing members into teams](https://docs.github.com/en/organizations/organizing-members-into-teams) 🌐
 
 ## Makrdown
+> смотри также раздел [GitHub](#github)
 * [Руководство по оформлению Markdown файлов](https://gist.github.com/Jekins/2bf2d0638163f1294637) 🌐
 * [Markdown: Syntax](https://daringfireball.net/projects/markdown/syntax) 🌐
 * [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) 🌐
