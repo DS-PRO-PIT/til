@@ -1,7 +1,7 @@
 # TIL
 > Today I Leaned
 
-## Categories
+## Содержание
 * [Словари](#словари)
 * [GitHub](#github)
   * [GitHub Documentation](#github--github-documentation)
