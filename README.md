@@ -4,6 +4,7 @@
 ### Categories
 * [GitHub](#github)
 * [Makrdown](#makrdown)
+  * [Basic writing and formatting syntax](#makrdown-/-basic-writing-and-formatting-syntax)
 * [Text editors](#text-editors)
 
 ### GitHub
