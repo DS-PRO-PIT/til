@@ -8,6 +8,7 @@
 * [Text editors](#text-editors)
 
 ## GitHub
+* [About writing and formatting on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github)
 * [Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) 🌐
 * [Organizing members into teams](https://docs.github.com/en/organizations/organizing-members-into-teams) 🌐
 
