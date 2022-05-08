@@ -24,6 +24,10 @@
 * [About writing and formatting on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github) 🌐
 * [Organizing members into teams](https://docs.github.com/en/organizations/organizing-members-into-teams) 🌐
 
+* Contributing:
+  1. [Setting guidelines for repository contributors](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors) 🌐
+  1. [Creating a default community health file](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) 🌐
+
 ## Makrdown
 > смотри также раздел [GitHub](#github)
 * [Руководство по оформлению Markdown файлов](https://gist.github.com/Jekins/2bf2d0638163f1294637) 🌐
