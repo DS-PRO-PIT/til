@@ -1,5 +1,6 @@
+# Относительная ссылка на [репозиторий](https://github.com/web-standards-ru/dictionary/blob/main/git.md#repository)
 
-При необходимости указать ссылку из одного репзитария на другой.  
+Возможно указать ссылку из одного репзитария на другой.  
 Например, из файла `DS-PRO-PIT/github-learning-lab/README.md` на репозиторий `DS-PRO-PIT/github-slideshow`:
 ```
 [github-slideshow](/../../../../DS-PRO-PIT/github-slideshow)
