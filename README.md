@@ -2,18 +2,25 @@
 > Today I Leaned
 
 ## Содержание
+* [ОС Linux](#ос-linux)
 * [Словари](#словари)
+* [Текстовые редакторы](#текстовые-редакторы)
 * [GitHub](#github)
   * [GitHub Documentation](#github--github-documentation)
 * [Makrdown](#makrdown)
   * [Basic writing and formatting syntax](#makrdown--basic-writing-and-formatting-syntax)
-* [Текстовые редакторы](#текстовые-редакторы)
+
+## ОС Linux
+* [Информация о системе](url)
 
 ## Словари
 
 ##### Dictionary / [web-standards-ru/dictionary](https://github.com/web-standards-ru/dictionary)
 * [Словарь терминов Git и GitHub](https://github.com/web-standards-ru/dictionary/blob/main/git.md) 🌐
 * [Словарь терминов по фронтенду](https://github.com/web-standards-ru/dictionary/blob/main/dictionary.md) 🌐
+
+## Текстовые редакторы
+* [Atom](https://atom.io/) 🌐
 
 ## GitHub
 > смотри также раздел [Makrdown](#makrdown)
@@ -48,9 +55,6 @@
 * [Attaching files](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/attaching-files) 🌐
 * [Creating a permanent link to a code snippet](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-a-permanent-link-to-a-code-snippet) 🌐
 * [Using keywords in issues and pull requests](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/using-keywords-in-issues-and-pull-requests) 🌐
-
-## Текстовые редакторы
-* [Atom](https://atom.io/) 🌐
 
 <hr>
 
