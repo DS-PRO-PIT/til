@@ -6,3 +6,5 @@
   - `hostnamectl`
 - версия ядра Linux:
   - `uname -r`
+
+[Источник](https://www.cyberciti.biz/faq/how-to-check-os-version-in-linux-command-line/) 🌐
