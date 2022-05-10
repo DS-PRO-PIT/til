@@ -11,7 +11,7 @@
   * [Basic writing and formatting syntax](#makrdown--basic-writing-and-formatting-syntax)
 
 ## ОС Linux
-* [Информация о системе](url)
+* [Информация о системе](linux-os/check-os-version.md)
 
 ## Словари
 
