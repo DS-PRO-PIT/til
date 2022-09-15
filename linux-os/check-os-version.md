@@ -9,7 +9,7 @@
 
 [Источник](https://www.cyberciti.biz/faq/how-to-check-os-version-in-linux-command-line/) 🌐
 
-# Ещё
+## Ещё
 `cat /proc/version`
 
 Например для Ubuntu 22.04:
