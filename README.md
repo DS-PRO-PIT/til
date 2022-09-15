@@ -12,6 +12,7 @@
 
 ## ОС Linux
 * [Информация о системе](linux-os/check-os-version.md)
+* [Ubuntu apt update/upgrade](linux-os/ubuntu-update-upgrade.md)
 
 ## Словари
 
