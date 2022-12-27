@@ -33,6 +33,7 @@
 
 ## GitHub
 > смотри также раздел [Makrdown](#makrdown)
+* [Emoji](github/emoji.md)
 * [Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) 🌐
 
 ##### GitHub / [GitHub Documentation](https://docs.github.com/en)
