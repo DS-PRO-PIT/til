@@ -3,7 +3,7 @@
 
 ## Содержание
 * [Linux](#linux)
-* [СРС GNOME](#срс-gnome)
+* [GNOME](#gnome)
 * [Словари](#словари)
 * [Текстовые редакторы](#текстовые-редакторы)
 * [GitHub](#github)
@@ -12,13 +12,13 @@
   * [Basic writing and formatting syntax](#makrdown--basic-writing-and-formatting-syntax)
 
 ## Linux
-> смотри также раздел [СРС GNOME](#срс-gnome)
+> смотри также раздел [GNOME](#gnome)
 * [Информация о системе](linux/check-os-version.md)
 * [Ubuntu apt update/upgrade](linux/ubuntu-update-upgrade.md)
 
-## СРС GNOME
+## GNOME
 > смотри также раздел [Linux](#linux)
-* [Горячие клавиши](gnome-de/hotkeys.md)
+* [Горячие клавиши](gnome/hotkeys.md)
 * [Полезные комбинации клавиш](https://help.gnome.org/users/gnome-help/stable/shell-keyboard-shortcuts.html.ru) :globe_with_meridians:
 * [Управление с помощью клавиатуры](https://help.gnome.org/users/gnome-help/stable/keyboard-nav.html.ru) :globe_with_meridians:
 
