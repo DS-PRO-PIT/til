@@ -18,6 +18,7 @@
 
 ## GNOME
 > смотри также раздел [ОС Linux](#ос-linux)
+* [Горячие клавиши](gnome/hotkeys.md)
 * [Полезные комбинации клавиш](https://help.gnome.org/users/gnome-help/stable/shell-keyboard-shortcuts.html.ru) :globe_with_meridians:
 * [Управление с помощью клавиатуры](https://help.gnome.org/users/gnome-help/stable/keyboard-nav.html.ru) :globe_with_meridians:
 
