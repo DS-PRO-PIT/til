@@ -13,8 +13,8 @@
 
 ## Linux
 > смотри также раздел [СРС GNOME](#срс-gnome)
-* [Информация о системе](linux-os/check-os-version.md)
-* [Ubuntu apt update/upgrade](linux-os/ubuntu-update-upgrade.md)
+* [Информация о системе](linux/check-os-version.md)
+* [Ubuntu apt update/upgrade](linux/ubuntu-update-upgrade.md)
 
 ## СРС GNOME
 > смотри также раздел [Linux](#linux)
