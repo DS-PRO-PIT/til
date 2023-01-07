@@ -4,6 +4,7 @@
 ## Содержание
 * [Linux](#linux)
 * [GNOME](#gnome)
+* [Поддержка браузерами](#поддержка-браузерами)
 * [Словари](#словари)
 * [Текстовые редакторы](#текстовые-редакторы)
 * [GitHub](#github)
@@ -21,6 +22,9 @@
 * [Горячие клавиши](gnome/hotkeys.md)
 * [Полезные комбинации клавиш](https://help.gnome.org/users/gnome-help/stable/shell-keyboard-shortcuts.html.ru) :globe_with_meridians:
 * [Управление с помощью клавиатуры](https://help.gnome.org/users/gnome-help/stable/keyboard-nav.html.ru) :globe_with_meridians:
+
+## Поддержка браузерами
+
 
 ## Словари
 
