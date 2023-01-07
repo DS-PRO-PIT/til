@@ -24,7 +24,7 @@
 * [Управление с помощью клавиатуры](https://help.gnome.org/users/gnome-help/stable/keyboard-nav.html.ru) :globe_with_meridians:
 
 ## Поддержка браузерами
-
+* https://caniuse.com :globe_with_meridians:
 
 ## Словари
 
