@@ -15,6 +15,20 @@
 ## Словари
 
 * [Базовые понятия (знания) в REST API](https://wp-kama.ru/handbook/rest/basic) 🌐
+  * [JSON](https://wp-kama.ru/handbook/rest/basic#json) 🌐
+  * [HTTP Клиент (или просто Клиент)](https://wp-kama.ru/handbook/rest/basic#http-klient) 🌐
+  * [Маршруты и Эндпоинты](https://wp-kama.ru/handbook/rest/basic#routes-endpoints) 🌐
+  * [Пространство имён](https://wp-kama.ru/handbook/rest/basic#namespace) 🌐
+  * [CRUD](https://wp-kama.ru/handbook/rest/basic#crud) 🌐
+  * [Ресурс](https://wp-kama.ru/handbook/rest/basic#resurs) 🌐
+  * [Путь к ресурсу](https://wp-kama.ru/handbook/rest/basic#resource-paths) 🌐
+  * [Запрос](https://wp-kama.ru/handbook/rest/basic#zapros) 🌐
+  * [Ответ](https://wp-kama.ru/handbook/rest/basic#otvet) 🌐
+  * [HTTP Методы](https://wp-kama.ru/handbook/rest/basic#http-methods) 🌐
+  * [Схема](https://wp-kama.ru/handbook/rest/basic#shema) 🌐
+  * [Обнаружение](https://wp-kama.ru/handbook/rest/basic#obnaruzhenie) 🌐
+  * [Контроллер](https://wp-kama.ru/handbook/rest/basic#kontroller) 🌐
+  * [CURIE (компактный URL)](https://wp-kama.ru/handbook/rest/basic#curie) 🌐
 
 ##### Dictionary / [web-standards-ru/dictionary](https://github.com/web-standards-ru/dictionary)
 * [Словарь терминов Git и GitHub](https://github.com/web-standards-ru/dictionary/blob/main/git.md) 🌐
