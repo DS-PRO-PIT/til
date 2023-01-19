@@ -14,6 +14,8 @@
 
 ## Словари
 
+* [Базовые понятия (знания) в REST API](https://wp-kama.ru/handbook/rest/basic) 🌐
+
 ##### Dictionary / [web-standards-ru/dictionary](https://github.com/web-standards-ru/dictionary)
 * [Словарь терминов Git и GitHub](https://github.com/web-standards-ru/dictionary/blob/main/git.md) 🌐
 * [Словарь терминов по фронтенду](https://github.com/web-standards-ru/dictionary/blob/main/dictionary.md) 🌐
