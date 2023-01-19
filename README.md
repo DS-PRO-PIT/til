@@ -2,15 +2,24 @@
 > Today I Leaned
 
 ## Содержание
+* [Словари](#словари)
+* [Текстовые редакторы](#текстовые-редакторы)
 * [Linux](#linux)
 * [GNOME](#gnome)
 * [Поддержка браузерами](#поддержка-браузерами)
-* [Словари](#словари)
-* [Текстовые редакторы](#текстовые-редакторы)
 * [GitHub](#github)
   * [GitHub Documentation](#github--github-documentation)
 * [Makrdown](#makrdown)
   * [Basic writing and formatting syntax](#makrdown--basic-writing-and-formatting-syntax)
+
+## Словари
+
+##### Dictionary / [web-standards-ru/dictionary](https://github.com/web-standards-ru/dictionary)
+* [Словарь терминов Git и GitHub](https://github.com/web-standards-ru/dictionary/blob/main/git.md) 🌐
+* [Словарь терминов по фронтенду](https://github.com/web-standards-ru/dictionary/blob/main/dictionary.md) 🌐
+
+## Текстовые редакторы
+* [Atom](https://atom.io/) 🌐
 
 ## Linux
 > смотри также раздел [GNOME](#gnome)
@@ -26,15 +35,6 @@
 ## Поддержка браузерами
 > сравнение технологий, поддерживаемых браузерами
 * https://caniuse.com :globe_with_meridians:
-
-## Словари
-
-##### Dictionary / [web-standards-ru/dictionary](https://github.com/web-standards-ru/dictionary)
-* [Словарь терминов Git и GitHub](https://github.com/web-standards-ru/dictionary/blob/main/git.md) 🌐
-* [Словарь терминов по фронтенду](https://github.com/web-standards-ru/dictionary/blob/main/dictionary.md) 🌐
-
-## Текстовые редакторы
-* [Atom](https://atom.io/) 🌐
 
 ## GitHub
 > смотри также раздел [Makrdown](#makrdown)
