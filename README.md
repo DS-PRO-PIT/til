@@ -40,6 +40,7 @@
 ## Linux
 > смотри также раздел [GNOME](#gnome)
 * [Информация о системе](linux/check-os-version.md)
+* [Информация о сетевых интерфейсах](linux/view-network-interface.md)
 * [Ubuntu apt update/upgrade](linux/ubuntu-update-upgrade.md)
 
 ## GNOME
