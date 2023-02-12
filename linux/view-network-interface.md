@@ -1,11 +1,13 @@
 [ОС Linux](README.md)
 
-# ifconfig
+# Информация о сетевых интерфейсах
+
+## ifconfig
 ```
 ifconfig
 ```
 
-# ip
+## ip
 ```
 ip addr
 ```
